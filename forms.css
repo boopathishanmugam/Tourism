@@ -1,0 +1,35 @@
+body{
+  background-color: #F7F5F2;
+}
+.Body_head_line{
+  text-align: center;
+  color:blue;
+}
+.form_content{
+  margin-left: 350px;
+}
+.b_form{
+font-size: 40px;
+}
+input[type = text] {
+            width: 100%;
+            padding: 10px 15px;
+            margin: 5px 0;
+            box-sizing: border-box;
+            border-radius: 10px;
+         }
+
+.submit_button{
+  background-color:blue;
+  color:white;
+  width: 60%;
+  padding: 10px 15px;
+  margin: 5px 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-left: 150px;
+}
+.footer_contrent{
+  text-align: center;
+  font-size: 40px;
+}
